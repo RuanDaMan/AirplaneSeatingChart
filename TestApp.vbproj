@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>TestApp</RootNamespace>
-    <StartupObject>TestApp.Form1</StartupObject>
+    <StartupObject>TestApp.AirplaneSeatingChartForm</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
